@@ -15,6 +15,4 @@ collections:
     fields: # ページ作成画面で使う。Front Matterの値を書く
       - {label: "タイトル", name: "title", widget: "string"}
       - {label: "公開日", name: "date", widget: "datetime"}
-      - {label: "サムネイル画像", name: "thumbnail", widget: "image"}
-      - {label: "レーティング", name: "rating", widget: "number"}
       - {label: "本文", name: "body", widget: "markdown"}

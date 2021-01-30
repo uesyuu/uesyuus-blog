@@ -2,3 +2,5 @@ baseURL = "https://amazing-brahmagupta-722b57.netlify.app/"
 languageCode = "ja-jp"
 title = "My New Hugo Site"
 theme = "hugo_theme_robust"
+[params]
+eyecatch = "/images/tn.png"

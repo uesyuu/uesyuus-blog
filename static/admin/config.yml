@@ -4,7 +4,7 @@ backend:
 
 media_folder: "static/images"
 
-public_folder: "https://amazing-brahmagupta-722b57.netlify.app/images/"
+public_folder: "images/"
 
 collections:
   - label: "Blog" # 管理画面のサイドバーで使う

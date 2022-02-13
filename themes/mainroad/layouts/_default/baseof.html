@@ -45,7 +45,11 @@
 	{{- end }}
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.6/css/all.css">
 	<link rel="stylesheet" href="/css/custom.css">
-	{{ template "_internal/opengraph.html" . }}
+	{{ with .Params.images }}
+		{{ range first 6 . }}
+			<meta property="og:image" content="{{ . | absURL }}" />
+		{{ end }}
+	{{ end }}
 </head>
 <body class="body">
 	<div class="container container--outer">

@@ -79,3 +79,6 @@ defaultContentLanguage = "ja"
 #   Name = "タグ"
 #   URL = "/tags/"
 #   weight = 3
+
+[markup.goldmark.renderer]
+unsafe= true

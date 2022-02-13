@@ -3,7 +3,6 @@ title: ブログ乗り換えました
 author: uesyuu
 type: post
 date: 2018-11-12T11:08:21+00:00
-url: /?p=385
 timeline_notification:
   - 1542020904
 categories:

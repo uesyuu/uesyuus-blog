@@ -3,7 +3,6 @@ title: Cubing Worldの紹介
 author: uesyuu
 type: post
 date: 2014-03-15T10:36:19+00:00
-url: /?p=26
 categories:
   - その他
 

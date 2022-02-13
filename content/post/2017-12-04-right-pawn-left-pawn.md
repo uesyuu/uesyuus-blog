@@ -3,7 +3,6 @@ title: スクエア1の成形一覧 part7 right pawn-left pawn系
 author: uesyuu
 type: post
 date: 2017-12-04T14:43:22+00:00
-url: /?p=334
 og_img:
   - https://uesyuu.files.wordpress.com/2017/12/4-1-1-1.png
 categories:

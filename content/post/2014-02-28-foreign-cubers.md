@@ -3,7 +3,6 @@ title: 海外のトップキューバー紹介
 author: uesyuu
 type: post
 date: 2014-02-28T10:37:57+00:00
-url: /?p=20
 categories:
   - その他
 

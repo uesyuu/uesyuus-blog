@@ -3,7 +3,6 @@ title: tribox Contest 2018 後半期 第8節 FMC思考過程
 author: uesyuu
 type: post
 date: 2018-08-26T12:13:53+00:00
-url: /?p=377
 timeline_notification:
   - 1535285635
 categories:

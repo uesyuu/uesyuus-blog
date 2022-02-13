@@ -3,7 +3,6 @@ title: F2Lの持ち替えを減らすためには
 author: uesyuu
 type: post
 date: 2015-12-01T14:07:22+00:00
-url: /?p=118
 categories:
   - 3x3
 

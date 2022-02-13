@@ -4,7 +4,6 @@ author: uesyuu
 type: post
 date: 2019-11-30T09:40:28+00:00
 draft: true
-url: /?p=381
 timeline_notification:
   - 1575106831
 categories:

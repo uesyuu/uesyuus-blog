@@ -3,7 +3,6 @@ title: スクエア1の成形一覧 part4 scallop-scallop系
 author: uesyuu
 type: post
 date: 2017-12-04T14:42:10+00:00
-url: /?p=321
 og_img:
   - https://uesyuu.files.wordpress.com/2017/12/4-2-1-2.png
 categories:

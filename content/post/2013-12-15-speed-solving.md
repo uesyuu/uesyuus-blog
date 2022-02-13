@@ -3,7 +3,6 @@ title: スピソルを使おう
 author: uesyuu
 type: post
 date: 2013-12-15T18:21:03+00:00
-url: /?p=5
 categories:
   - その他
 

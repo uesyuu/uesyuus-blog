@@ -3,7 +3,6 @@ title: スクエア1の成形一覧 part2 5-1 – paired edges系
 author: uesyuu
 type: post
 date: 2017-12-04T09:49:56+00:00
-url: /?p=308
 og_img:
   - https://uesyuu.files.wordpress.com/2017/12/5-1-1-2.png
 categories:

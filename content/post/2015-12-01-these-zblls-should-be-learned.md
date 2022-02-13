@@ -3,7 +3,6 @@ title: 覚えておくべきZBLL
 author: uesyuu
 type: post
 date: 2015-12-01T14:08:53+00:00
-url: /?p=41
 og_img:
   - https://uesyuu.files.wordpress.com/2015/11/ts1.png
 categories:

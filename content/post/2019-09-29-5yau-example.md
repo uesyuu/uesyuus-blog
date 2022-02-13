@@ -3,7 +3,6 @@ title: 5Yau NR holderによる5Yauテクニック集
 author: uesyuu
 type: post
 date: 2019-09-29T13:27:22+00:00
-url: /?p=450
 categories:
   - 5x5
 

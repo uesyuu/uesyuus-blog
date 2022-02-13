@@ -3,7 +3,6 @@ title: スクエア1の成形の覚える順番
 author: uesyuu
 type: post
 date: 2017-12-04T14:38:43+00:00
-url: /?p=160
 og_img:
   - https://uesyuu.files.wordpress.com/2017/12/star2.png
 categories:

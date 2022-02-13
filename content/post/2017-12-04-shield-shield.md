@@ -3,7 +3,6 @@ title: スクエア1の成形一覧 part5 shield-shield系
 author: uesyuu
 type: post
 date: 2017-12-04T14:42:33+00:00
-url: /?p=328
 og_img:
   - https://uesyuu.files.wordpress.com/2017/12/scallop-11.png
 categories:

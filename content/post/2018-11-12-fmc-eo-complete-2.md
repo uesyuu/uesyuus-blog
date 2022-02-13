@@ -3,7 +3,6 @@ title: FMCにおけるEOについて（加筆修正版）
 author: uesyuu
 type: post
 date: 2018-11-12T10:18:12+00:00
-url: /?p=28
 og_img:
   - http://uesyuu.wp.xdomain.jp/wp-content/uploads/2018/11/6-1.png
 categories:

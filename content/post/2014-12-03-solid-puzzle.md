@@ -3,7 +3,6 @@ title: 立体パズル入門
 author: uesyuu
 type: post
 date: 2014-12-03T15:13:18+00:00
-url: /?p=30
 categories:
   - その他
 

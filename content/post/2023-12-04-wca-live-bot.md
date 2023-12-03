@@ -159,7 +159,7 @@ Herokuみたいな何でも使えるサーバーを無料提供するサービ�
 WCA Live botをどこに移行するか考えた結果、Googleの提供するFirebaseに移行することに決めました。
 Firebaseとは一般的にサーバーが行う機能を簡単に実装できるサービスを複数提供する便利サービスです。
 その中でも今回はCloud FunctionとFirestoreを使用しました。
-Cloud Functionはプログラムの定期実行を行うサービスです
+Cloud Functionはプログラムの定期実行を行うサービスです。
 Firestoreはいわゆるデータベースですね。
 
 ここで少し苦労したのは、Cloud FunctionはJavaScriptがデフォルト言語でPythonは使えないというところです。

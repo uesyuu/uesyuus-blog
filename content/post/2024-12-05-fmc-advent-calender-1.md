@@ -9,7 +9,7 @@ categories:
 ---
 &nbsp;
 
-この記事は[FMC Advent Calender 2024](https://adventar.org/calendars/10322)の5日目の記事です。4日目の記事はY.Yさんの[3試技目](https://adventar.org/calendars/10322)でした。
+この記事は[FMC Advent Calender 2024](https://adventar.org/calendars/10322)の5日目の記事です。4日目の記事はY.Yさんの[3試技目](http://cubyy.blog.fc2.com/blog-entry-17.html)でした。
 
 &nbsp;
 

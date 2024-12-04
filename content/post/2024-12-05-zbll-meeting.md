@@ -9,7 +9,7 @@ categories:
 ---
 &nbsp;
 
-この記事は[Speedcubing Advent Calendar 2024](https://adventar.org/calendars/9925) 5日目の記事です。4日目の記事はkits_さんの「[FTOで何か](https://www.google.co.jp/)」でした。6日目の記事は幸地（こうち）さんの記事です。
+この記事は[Speedcubing Advent Calendar 2024](https://adventar.org/calendars/9925) 5日目の記事です。4日目の記事はkits_さんの「[FTO解法解説を書きます(という意志)](http://www.akatsukinishisu.net/itazuragaki/cube/writing_fto_tutorial.html)」でした。6日目の記事は幸地（こうち）さんの記事です。
 
 &nbsp;
 

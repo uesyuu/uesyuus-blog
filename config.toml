@@ -28,7 +28,7 @@ defaultContentLanguage = "ja"
   mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
   mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
   highlightColor = "#009406" # Override highlight color
-  images = ["img_8196.jpg"]
+  images = ["/images/img_8196.jpg"]
 #   customCSS = ["css/custom.css"] # Include custom CSS files
 #   customJS = ["js/custom.js"] # Include custom JS files
 

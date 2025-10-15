@@ -52,9 +52,15 @@ HTRを作る上で重要なのがQTという考え方です。
 HTR的にはあるDR状態からどれだけHTを回してもそのDRのHTR的状態は変わりません。
 しかし、一度QTを回すとHTR的状態が変わり、HTR完成に状態が近づくか遠ざかるかするのです。
 
-このQTという考え方を元にDR状態をHTR的観点からいくつかのパターンに分類したものをHTR subsetsと呼びます。
+このQTという考え方を元にDR状態をHTR的観点から14個のパターンに分類したものをHTR subsetsと呼びます。
 
-これはFMCの元WR holderのJayden McNeilが提唱したもので、以下にその元記事と解説YouTubeを載せておきます。
+各subsetは以下の樹形図のそれぞれの項目に対応し、適切な位置でQTを回すと必要QT数が減り次のsubsetに遷移するのです。
+
+最終的に0c0に遷移したらコーナーのHTRが完成します。
+
+<img src="/images/2023/11/5_graph_2.PNG" width="500" />
+
+このHTR subsetsはFMCの元WR holderのJayden McNeilが提唱したもので、以下にその元記事と解説YouTubeを載せておきます。
 
 [FMC: My recommended approach for recognizing all 12 HTR corner subsets](https://www.speedsolving.com/threads/fmc-my-recommended-approach-for-recognizing-all-12-htr-corner-subsets.90515/)
 
